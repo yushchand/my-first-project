@@ -3,3 +3,4 @@ Adding more text
 Adding more text
 Adding more text
 Testing GCM
+Test storing credentials
